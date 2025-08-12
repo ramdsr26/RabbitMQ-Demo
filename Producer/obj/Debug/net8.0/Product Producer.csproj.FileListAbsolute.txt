@@ -1,0 +1,17 @@
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\bin\Debug\net8.0\Product Producer.exe
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\bin\Debug\net8.0\Product Producer.deps.json
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\bin\Debug\net8.0\Product Producer.runtimeconfig.json
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\bin\Debug\net8.0\Product Producer.dll
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\bin\Debug\net8.0\Product Producer.pdb
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.csproj.AssemblyReference.cache
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.AssemblyInfoInputs.cache
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.AssemblyInfo.cs
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.csproj.CoreCompileInputs.cache
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product .37484264.Up2Date
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.dll
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\refint\Product Producer.dll
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.pdb
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\Product Producer.genruntimeconfig.cache
+C:\dsakthiram\vs\RabbitMQ-master\Product Producer\obj\Debug\net8.0\ref\Product Producer.dll
